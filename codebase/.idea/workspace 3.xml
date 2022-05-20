@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94b1bfd9-1300-4ad3-8a2a-8b6be8beedf6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ProjectChess_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FAIL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FILIP.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GG.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRA1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRA2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRA2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HRA_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaSemestral.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/KAREL.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LUDAC.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MOREMORE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PICO.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PRAY.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectChess.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SAVE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/SAVE.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SS.pgn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TESTTEST.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/XX.asfasfa" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/buůů" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/null.pgn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/GUI/ChessTileGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/GUI/GameFrameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/GUI/GameFrameGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/GUI/PawnPromotionPopUP.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/Move/Move.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/Move/Move.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/Player/GeneralPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/Player/GeneralPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/PortableGameNotation/MoveLog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/fel/cvut/cz/PortableGameNotation/MoveLog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/BB.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/BK.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/BN.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/BP.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/BQ.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/BR.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/WB.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/WK.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/WN.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/WP.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/WQ.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/fancy/WR.gif" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9343d9a4-2188-4e75-a553-93fe9370bf86" name="Default Changelist" comment="" />
+      <created>1557822554446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557822554446</updated>
+      <workItem from="1557822556137" duration="106000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="32000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24969475" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
